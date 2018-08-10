@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">DesafioKanaMobi</string>
+    <string name="Erro404">404 - WebService não encontrado</string>
+    <string name="Erro500">500 - Erro interno do servidor</string>
+    <string name="Erro502">502 - Bad Gateway</string>
+    <string name="Erro503">503 - Serviço indisponível</string>
+    <string name="Erro504">504 - Gateway Time-Out</string>
+    <string name="string_data_criacao">Data da Criação: </string>
+    <string name="data_teste">2018-08-05T01:15:33Z</string>
 </resources>
